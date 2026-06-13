@@ -1,5 +1,16 @@
 # ELITE-DATA-SOLUTION
+
 A Data Analysis Toolkit that analyses both Data and Business Information. Measures 150 Business parameters, identifies trend with colour codes, runs regression and cointegration, etc. 
+
+
+
+check it out here
+ https://websim.com/@silkenspade3107466/analyst-toolkit
+
+
+
+backend code
+
 
 <html lang="en">
 <head>
